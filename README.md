@@ -49,7 +49,7 @@ Each row corresponds to a participant. The grouping variable is either `BPD` or 
   `offer1` to `offer6` = binary response (1 = reject, 0 = accept)
 
 - **Social Value Orientation (SVO)**:  
-  `SVO_SliderOutput.csv` contains computed SVO scores using Ackermann's `SVO_Slider.m` (not raw trial data.)
+  `SVO_SliderOutput.csv` contains computed SVO scores using Ackermann's `SVO_Slider.m` (not raw trial data)
 
 ## How to Run the Code
 
